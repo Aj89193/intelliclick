@@ -1,4 +1,4 @@
-# intelliclick
+
 Weather Application
 This project is a web application that allows users to search for weather information in cities around the world. It uses the OpenWeatherMap API to fetch live weather data and displays it in a user-friendly table format. The project is built with React, Axios, and React Bootstrap for UI components and styling.
 
